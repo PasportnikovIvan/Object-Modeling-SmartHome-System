@@ -10,4 +10,4 @@
 <h2 style="color: red; text-decoration: underline;">UML Class Diagram</h2>
 <img src="diagrams/SmartHouse.png" alt="UML Class Diagram">
 <h2 style="color: red; text-decoration: underline;">Use Case Diagram</h2>
-<img src="diagrams/useCase.png" heigth="1vh" alt="Use Case Diagram">
+<img src="diagrams/useCase.png" heigth="1em" alt="Use Case Diagram">
