@@ -1,0 +1,96 @@
+__________________________________ Report for the 1 day __________________________________
+_______________________________________ [Devices] ________________________________________
+Person "Eva" has used "Lamp 6" 1 times this day.
+Person "Sebek" has used "TV" 2 times this day.
+Person "Sebek" has used "door" 1 times this day.
+Person "Sebek" has used "AC" 1 times this day.
+Person "Pasha Afrikanec" has used "sever window" 2 times this day.
+Person "Pasha Afrikanec" has used "east window" 1 times this day.
+Person "Pasha Afrikanec" has used "door" 1 times this day.
+Person "Pasha Afrikanec" has used "east window" 1 times this day.
+Person "Ivan" has used "Lamp 4" 1 times this day.
+Person "Vova" has used "roll-door" 1 times this day.
+Person "Vova" has used "Lamp 5" 1 times this day.
+________________________________________ [Items] __________________________________________
+Person "Eva" has used "MTB" 2 times this day.
+Person "Eva" has used "BMW M2" 1 times this day.
+Person "Sebek" has used "Bicycle" 2 times this day.
+Person "Ivan" has used "MTB" 1 times this day.
+Person "Ivan" has used "BMW M2" 2 times this day.
+Person "Pasha Afrikanec" has used "Bicycle" 2 times this day.
+Person "Vova" has used "MTB" 2 times this day.
+Person "Vova" has used "BMW M2" 2 times this day.
+__________________________________ Report for the 2 day __________________________________
+_______________________________________ [Devices] ________________________________________
+Person "Eva" has used "south window 2" 1 times this day.
+Person "Eva" has used "east window" 2 times this day.
+Person "Eva" has used "door-to-house" 1 times this day.
+Person "Eva" has used "door" 1 times this day.
+Person "Eva" has used "AC" 1 times this day.
+Person "Sebek" has used "east window" 1 times this day.
+Person "Sebek" has used "Lamp 2" 1 times this day.
+Person "Sebek" has used "AC" 1 times this day.
+Person "Ivan" has used "door-to-house" 1 times this day.
+Person "Ivan" has used "roll-door" 1 times this day.
+Person "Ivan" has used "Lamp 6" 1 times this day.
+Person "Pasha Afrikanec" has used "TV" 1 times this day.
+Person "Pasha Afrikanec" has used "AC" 1 times this day.
+Person "Vova" has used "bedroom-door" 1 times this day.
+Person "Vova" has used "Lamp 5" 1 times this day.
+________________________________________ [Items] __________________________________________
+Person "Eva" has used "MTB" 3 times this day.
+Person "Eva" has used "BMW M2" 1 times this day.
+Person "Eva" has used "Bicycle" 1 times this day.
+Person "Sebek" has used "Bicycle" 3 times this day.
+Person "Ivan" has used "MTB" 1 times this day.
+Person "Ivan" has used "BMW M2" 3 times this day.
+Person "Pasha Afrikanec" has used "BMW M2" 1 times this day.
+Person "Pasha Afrikanec" has used "Bicycle" 4 times this day.
+Person "Vova" has used "MTB" 5 times this day.
+Person "Vova" has used "BMW M2" 2 times this day.
+__________________________________ Report for the 3 day __________________________________
+_______________________________________ [Devices] ________________________________________
+Person "Eva" has used "east window" 1 times this day.
+Person "Eva" has used "door-to-house" 1 times this day.
+Person "Eva" has used "Lamp 6" 1 times this day.
+Person "Sebek" has used "TV" 1 times this day.
+Person "Ivan" has used "door-to-house" 1 times this day.
+Person "Ivan" has used "roll-door" 2 times this day.
+Person "Ivan" has used "Lamp 5" 1 times this day.
+Person "Vova" has used "door-to-house" 2 times this day.
+Person "Vova" has used "roll-door" 1 times this day.
+Person "Vova" has used "Lamp 5" 1 times this day.
+________________________________________ [Items] __________________________________________
+Person "Eva" has used "MTB" 4 times this day.
+Person "Eva" has used "BMW M2" 1 times this day.
+Person "Eva" has used "Bicycle" 2 times this day.
+Person "Sebek" has used "Bicycle" 7 times this day.
+Person "Ivan" has used "MTB" 2 times this day.
+Person "Ivan" has used "BMW M2" 4 times this day.
+Person "Pasha Afrikanec" has used "MTB" 1 times this day.
+Person "Pasha Afrikanec" has used "BMW M2" 4 times this day.
+Person "Pasha Afrikanec" has used "Bicycle" 4 times this day.
+Person "Vova" has used "MTB" 8 times this day.
+Person "Vova" has used "BMW M2" 2 times this day.
+__________________________________ Report for the 4 day __________________________________
+_______________________________________ [Devices] ________________________________________
+Person "Eva" has used "door-to-house" 4 times this day.
+Person "Eva" has used "roll-door" 1 times this day.
+Person "Sebek" has used "door" 2 times this day.
+Person "Sebek" has used "AC" 1 times this day.
+Person "Ivan" has used "Lamp 6" 2 times this day.
+Person "Ivan" has used "Lamp 5" 1 times this day.
+Person "Vova" has used "Lamp 5" 1 times this day.
+________________________________________ [Items] __________________________________________
+Person "Eva" has used "MTB" 8 times this day.
+Person "Eva" has used "BMW M2" 2 times this day.
+Person "Eva" has used "Bicycle" 2 times this day.
+Person "Sebek" has used "Bicycle" 11 times this day.
+Person "Ivan" has used "MTB" 2 times this day.
+Person "Ivan" has used "BMW M2" 4 times this day.
+Person "Pasha Afrikanec" has used "MTB" 5 times this day.
+Person "Pasha Afrikanec" has used "BMW M2" 4 times this day.
+Person "Pasha Afrikanec" has used "Bicycle" 4 times this day.
+Person "Vova" has used "MTB" 8 times this day.
+Person "Vova" has used "BMW M2" 3 times this day.
+Person "Vova" has used "Bicycle" 1 times this day.
