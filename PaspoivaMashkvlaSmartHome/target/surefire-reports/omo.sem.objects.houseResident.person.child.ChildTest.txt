@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: omo.sem.objects.houseResident.person.child.ChildTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.029 s -- in omo.sem.objects.houseResident.person.child.ChildTest

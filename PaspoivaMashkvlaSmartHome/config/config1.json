@@ -1,0 +1,246 @@
+{
+  "sensors": [
+    "MOVEMENT"
+  ],
+  "floors": [
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "name": "Living room",
+          "sensors": ["TEMP", "LIGHT"],
+          "items": [
+            {
+              "type": "BICYCLE",
+              "name": "Bicycle"
+            }
+          ],
+          "devices": [
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "AC"
+            },
+            {
+              "type": "DOOR",
+              "name": "door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "sever window"
+            },
+            {
+              "type": "WINDOW",
+              "name": "east window"
+            },
+            {
+              "type": "TV",
+              "name": "TV"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 1"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 2"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Sebek",
+              "gender": "MALE"
+            }
+          ],
+          "pets": [
+            {
+              "type": "CHMONYA",
+              "name": "Malenky Chmonya"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "Kitchen AC"
+            },
+            {
+              "type": "DOOR",
+              "name": "kitchen door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "east window"
+            },
+            {
+              "type": "WINDOW",
+              "name": "south window"
+            },
+            {
+              "type": "TV",
+              "name": "TV"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 3"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 4"
+            },
+            {
+              "type": "KETTLE",
+              "name": "Chajnik"
+            },
+            {
+              "type": "FRIDGE",
+              "name": "Fridge"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Vova",
+              "gender": "MALE"
+            },
+            {
+              "type": "ADULT",
+              "name": "Ivan",
+              "gender": "MALE"
+            }
+          ]
+        },
+        {
+          "name": "Bathroom",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "WC door"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp"
+            }
+          ]
+        },
+        {
+          "name": "Garage",
+          "sensors": ["LIGHT"],
+          "items": [
+            {
+              "type": "BICYCLE",
+              "name": "MTB"
+            },
+            {
+              "type": "CAR",
+              "name": "BMW M2"
+            }
+          ],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "roll-door"
+            },
+            {
+              "type": "DOOR",
+              "name": "door-to-house"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 5"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 6"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "rooms": [
+        {
+          "name": "Bedroom",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "bedroom-door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "east window 2"
+            },
+            {
+              "type": "WINDOW",
+              "name": "south window 2"
+            },
+            {
+              "type": "TV",
+              "name": "TV"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 7"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Lamp 8"
+            },
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "bedroom AC"
+            }
+          ],
+          "persons": [
+            {
+              "type": "CHILD",
+              "name": "Nadezhda",
+              "gender": "FEMALE"
+            },
+            {
+              "type": "ADULT",
+              "name": "Eva",
+              "gender": "FEMALE"
+            }
+          ]
+        },
+        {
+          "name": "Sound studio",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "studio AC"
+            },
+            {
+              "type": "LIGHT",
+              "name": "studio led"
+            },
+            {
+              "type": "SPEAKERS",
+              "name": "monitors"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Pasha Afrikanec",
+              "gender": "MALE"
+            },
+            {
+              "type": "CHILD",
+              "name": "Hella",
+              "gender": "FEMALE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
