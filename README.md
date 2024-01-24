@@ -36,47 +36,33 @@ Each device and inhabitant have different states in which their behaviour may di
 </dd>
 </dl>
 
-<dt>State machine</dt>
+<dt>Chain of Responsibility</dt>
 <dd>
-Each device and inhabitant have different states in which their behaviour may differ.
+This pattern works in conjunction with the Event Bus, which allows for more flexible event handling.
 </dd>
 
-<dt>State machine</dt>
+<dt>Builder (nested builder & Factory)</dt>
 <dd>
-Each device and inhabitant have different states in which their behaviour may differ.
+This pattern is used to create the configuration of the house.
 </dd>
 
-<dt>State machine</dt>
+<dt>Factory method</dt>
 <dd>
-Each device and inhabitant have different states in which their behaviour may differ.
+Used in conjunction with the builder to create items, devices, entrances and houseResidents.
 </dd>
 
-<dt>State machine</dt>
+<dt>An abstract factory</dt>
 <dd>
-Each device and inhabitant have different states in which their behaviour may differ.
+Used in conjunction with the builder to create different types of sensors (ouside & inside).
 </dd>
 
-<dt>State machine</dt>
+<dt>Proxy</dt>
 <dd>
-Each device and inhabitant have different states in which their behaviour may differ.
-</dd>
-
-<dt>State machine</dt>
-<dd>
-Each device and inhabitant have different states in which their behaviour may differ.
+In our case, the SHSystem class has a "start" method which, after some logic, triggers the "start" method of the Simulation class.
 </dd>
 </div>
 
-
-Chain of Responsibility
-This pattern works in conjunction with the Event Bus, which allows for more flexible event handling.
-Builder (nested builder + factory)
-This pattern is used to create the configuration of our house.
-Factory method
-Used in conjunction with the builder to create items, devices, entrances and inhabitants.
-An abstract factory
-Used in conjunction with the builder to create different types of sensors (internal and external).
-Proxy
-In our case, the SHSystem class has a "start" method which, after some logic, triggers the "start" method of the Simulation class.
-Config
+<h2 style="color: red; text-decoration: underline;">Config</h2>
+<p align="left">
 The configuration is defined by means of a json file, which is then parsed.
+</p>
