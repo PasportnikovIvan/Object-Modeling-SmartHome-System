@@ -62,6 +62,33 @@ In our case, the SHSystem class has a "start" method which, after some logic, tr
 </dd>
 </div>
 
+<h2 style="color: red; text-decoration: underline;">Functional requirements</h2>
+
+<div align="left">
+<h3>From the assignment:</h3>
+<dl>
+<dt>F1 - DONE </dt>
+
+<dd>All objects(devices and etc) are located in the objects package.</dd>
+<dt>F2 - 50/50 </dt>
+<dd>Our devices have no content and fillings. Only electricity consumption and impacting temperature in some cases. Didn't have time for that:( </dd>
+<dt>F3 - DONE </dt>
+<dt>F4 - DONE </dt>
+<dt>F5 - DONE </dt>
+<dt>F6 - DONE </dt>
+<dt>F7 - DONE </dt>
+<dt>F8 - DONE </dt>
+<dt>F9 - DONE </dt>
+<dt>F10 - DONE </dt>
+<h3>Extra:</h3>
+<dt>F11 - DONE </dt>
+<dd>Real-time simulation with acceleration capability.</dd>
+<dt>F12 - DONE </dt>
+<dd>The possibility of postponing tasks if no one was able to solve the problem at the time (for example: feeding the pet).</dd>
+<dt>F13 - DONE </dt>
+<dd>The devices have a limited lifespan and can break down not only because of someone's use, but also because of the passage of time.</dd>
+</div>
+
 <h2 style="color: red; text-decoration: underline;">Config</h2>
 <p align="left">
 The configuration is defined by means of a json file, which is then parsed.
