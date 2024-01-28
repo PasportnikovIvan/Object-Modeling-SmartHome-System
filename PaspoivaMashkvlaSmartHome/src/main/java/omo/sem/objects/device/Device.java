@@ -11,7 +11,7 @@ import omo.sem.objects.Room;
 /**
  * Abstract class representing device.
  */
-public abstract class Device extends DeviceState implements TimeTracker, Source, UsableObject {
+public abstract class Device implements TimeTracker, Source, UsableObject {
     protected Room room;
     protected DeviceState state;
     protected String name;

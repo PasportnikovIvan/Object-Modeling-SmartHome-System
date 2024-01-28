@@ -1,912 +1,152 @@
-Jan 24, 2024 4:54:12 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Living room" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Living room" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Living room" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
+Jan 28, 2024 2:57:08 AM omo.sem.objects.device.door.state.DoorIdleState <init>
+INFO: Door in room "Garage" is closed now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:08 AM omo.sem.objects.device.door.state.DoorIdleState <init>
+INFO: Door in room "Garage" is closed now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:08 AM omo.sem.objects.device.window.state.WindowIdleState <init>
+INFO: Window in room "Garage" is closed now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:08 AM omo.sem.objects.device.light.state.LightIdleState <init>
+INFO: Light in room "Garage" is not being used now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:08 AM omo.sem.objects.device.light.state.LightIdleState <init>
+INFO: Light in room "Garage" is not being used now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
 INFO: AirConditioner in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.door.state.DoorIdleState <init>
 INFO: Door in room "Kitchen" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.window.state.WindowIdleState <init>
 INFO: Window in room "Kitchen" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.window.state.WindowIdleState <init>
 INFO: Window in room "Kitchen" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.tv.state.TvIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.tv.state.TvIdleState <init>
 INFO: Tv in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.kettle.state.KettleIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.kettle.state.KettleIdleState <init>
 INFO: Kettle in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.fridge.state.FridgeIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.fridge.state.FridgeIdleState <init>
 INFO: Fridge in room "Kitchen" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.door.state.DoorIdleState <init>
 INFO: Door in room "Bathroom" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Bathroom" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.door.state.DoorIdleState <init>
 INFO: Door in room "Garage" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.door.state.DoorIdleState <init>
 INFO: Door in room "Garage" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Garage" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Garage" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.door.state.DoorIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.door.state.DoorIdleState <init>
 INFO: Door in room "Bedroom" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.window.state.WindowIdleState <init>
 INFO: Window in room "Bedroom" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.window.state.WindowIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.window.state.WindowIdleState <init>
 INFO: Window in room "Bedroom" is closed now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.tv.state.TvIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.tv.state.TvIdleState <init>
 INFO: Tv in room "Bedroom" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Bedroom" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
 INFO: Light in room "Bedroom" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
 INFO: AirConditioner in room "Bedroom" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Sound studio" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Sound studio" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.device.speakers.state.SpeakersIdleState <init>
-INFO: Speakers in room "Sound studio" is not being used now [Day: 1, Hour: 0, Min: 0]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Sebek" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.pet.state.PetSleepingState <init>
-INFO: Pet "Malenky Chmonya" is sleeping now :3 [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
+INFO: AirConditioner in room "Gaming room" is not being used now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.light.state.LightIdleState <init>
+INFO: Light in room "Gaming room" is not being used now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.device.speakers.state.SpeakersIdleState <init>
+INFO: Speakers in room "Gaming room" is not being used now [Day: 1, Hour: 0, Min: 0]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
 INFO: Adult "Vova" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.pet.state.PetSleepingState <init>
+INFO: Pet "Malenky Chmonya" is sleeping now :3 [Day: 1, Hour: 0, Min: 2]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
 INFO: Adult "Ivan" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.child.state.ChildSleepingState <init>
-INFO: Child "Nadezhda" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
+INFO: Adult "Sebek" went to bed [Day: 1, Hour: 0, Min: 2]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.child.state.ChildSleepingState <init>
+INFO: Child "Luca" went to bed [Day: 1, Hour: 0, Min: 2]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
 INFO: Adult "Eva" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Pasha Afrikanec" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:13 PM omo.sem.objects.resident.person.child.state.ChildSleepingState <init>
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
+INFO: Adult "Gleb" went to bed [Day: 1, Hour: 0, Min: 2]
+Jan 28, 2024 2:57:09 AM omo.sem.objects.resident.person.child.state.ChildSleepingState <init>
 INFO: Child "Hella" went to bed [Day: 1, Hour: 0, Min: 2]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Sebek" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.pet.state.PetSleepingState update
-INFO: Pet "Malenky Chmonya" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
 INFO: Adult "Vova" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.pet.state.PetSleepingState update
+INFO: Pet "Malenky Chmonya" woke up [Day: 1, Hour: 7, Min: 1]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
 INFO: Adult "Ivan" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
+INFO: Adult "Sebek" woke up [Day: 1, Hour: 7, Min: 1]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
 INFO: Adult "Eva" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Pasha Afrikanec" woke up [Day: 1, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Vova" moved from room "Kitchen" to room "Garage" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "BMW M2" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Sound studio" to room "Kitchen" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Bedroom" to room "Kitchen" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.device.tv.state.TvBrokenState <init>
-INFO: TV in room "Kitchen" is broken now [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "TV" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "TV"... [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.device.tv.state.TvFixingState <init>
-INFO: TV in room "Kitchen" is being fixed now [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "east window" [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Kitchen" was opened now [Day: 1, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 4" [Day: 1, Hour: 7, Min: 29]
-Jan 24, 2024 4:54:15 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Kitchen" is on now [Day: 1, Hour: 7, Min: 29]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.child.state.ChildSleepingState update
-INFO: Child "Nadezhda" woke up [Day: 1, Hour: 8, Min: 2]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.child.state.ChildSleepingState update
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
+INFO: Adult "Gleb" woke up [Day: 1, Hour: 7, Min: 1]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Vova" started using object "East window" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.device.window.state.WindowUsingState <init>
+INFO: Window in room "Garage" was opened now [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.HouseResident moveTo
+INFO: Adult "Ivan" moved from room "Kitchen" to room "Garage" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Ivan" started using object "Bicycle" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.HouseResident moveTo
+INFO: Adult "Sebek" moved from room "Kitchen" to room "Garage" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Sebek" started using object "BMW M2" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.HouseResident moveTo
+INFO: Adult "Eva" moved from room "Bedroom" to room "Garage" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Eva" started using object "MTB" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Gleb" started using object "Monitors" [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.device.speakers.state.SpeakersUsingState <init>
+INFO: Speakers in room "Gaming room" is being used now [Day: 1, Hour: 7, Min: 26]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.child.state.ChildSleepingState update
+INFO: Child "Luca" woke up [Day: 1, Hour: 8, Min: 2]
+Jan 28, 2024 2:57:11 AM omo.sem.objects.resident.person.child.state.ChildSleepingState update
 INFO: Child "Hella" woke up [Day: 1, Hour: 8, Min: 2]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Kitchen" is closed now [Day: 1, Hour: 8, Min: 27]
-Jan 24, 2024 4:54:16 PM omo.sem.system.event.events.HungryPetEvent <init>
-INFO: Pet "Malenky Chmonya" in room "Living room": "I'm HUUUNGRYYY RRRR >_<" [Day: 1, Hour: 8, Min: 46]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Kitchen" to room "Living room" [Day: 1, Hour: 8, Min: 46]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.Adult feedPet
-INFO: Adult "Pasha Afrikanec" fed the pet "Malenky Chmonya" [Day: 1, Hour: 8, Min: 46]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 1, Hour: 8, Min: 52]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "sever window" [Day: 1, Hour: 8, Min: 52]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 1, Hour: 8, Min: 52]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "TV" [Day: 1, Hour: 8, Min: 57]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Kitchen" is not being used now [Day: 1, Hour: 8, Min: 57]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Kitchen" to room "Garage" [Day: 1, Hour: 9, Min: 22]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 1, Hour: 9, Min: 22]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Lamp 5" [Day: 1, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 1, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 1, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Sebek" went to work [Day: 1, Hour: 10, Min: 1]
-Jan 24, 2024 4:54:16 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Pasha Afrikanec" went to work [Day: 1, Hour: 10, Min: 1]
-Jan 24, 2024 4:54:17 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "BMW M2" [Day: 1, Hour: 10, Min: 48]
-Jan 24, 2024 4:54:17 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 1, Hour: 13, Min: 15]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" broke the object "east window 2" while playing with it :( [Day: 1, Hour: 13, Min: 56]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.device.window.state.WindowBrokenState <init>
-INFO: Window in room "Bedroom" is broken now [Day: 1, Hour: 13, Min: 56]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "east window 2" [Day: 1, Hour: 14, Min: 18]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "east window 2"... [Day: 1, Hour: 14, Min: 18]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.device.window.state.WindowFixingState <init>
-INFO: Window in room "Bedroom" is being fixed now [Day: 1, Hour: 14, Min: 18]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" broke the object "monitors" while playing with it :( [Day: 1, Hour: 15, Min: 41]
-Jan 24, 2024 4:54:18 PM omo.sem.objects.device.speakers.state.SpeakersBrokenState <init>
-INFO: Speakers in room "Sound studio" is broken now [Day: 1, Hour: 15, Min: 41]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "east window 2" [Day: 1, Hour: 16, Min: 20]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Bedroom" is closed now [Day: 1, Hour: 16, Min: 20]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "monitors" [Day: 1, Hour: 16, Min: 23]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "monitors"... [Day: 1, Hour: 16, Min: 23]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.speakers.state.SpeakersFixingState <init>
-INFO: Speakers in room "Sound studio" is being fixed now [Day: 1, Hour: 16, Min: 23]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Kitchen" is not being used now [Day: 1, Hour: 16, Min: 28]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Ivan" went to work [Day: 1, Hour: 16, Min: 31]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Sebek" arrived home from work [Day: 1, Hour: 17, Min: 2]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Ivan" arrived home from work [Day: 1, Hour: 17, Min: 2]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Pasha Afrikanec" arrived home from work [Day: 1, Hour: 17, Min: 2]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "monitors" [Day: 1, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.speakers.state.SpeakersIdleState <init>
-INFO: Speakers in room "Sound studio" is not being used now [Day: 1, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "TV" [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.tv.state.TvUsingState <init>
-INFO: TV in room "Living room" is being used now [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Ivan" moved from room "Kitchen" to room "Garage" [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "BMW M2" [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "door" [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Living room" was opened now [Day: 1, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 1, Hour: 17, Min: 35]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.pet.state.PetAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Chmonya "Malenky Chmonya" didn't break the object "door" while playing with it, WOOOW :D [Day: 1, Hour: 17, Min: 43]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "Lamp 6" [Day: 1, Hour: 17, Min: 49]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 1, Hour: 17, Min: 49]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "sever window" [Day: 1, Hour: 18, Min: 0]
-Jan 24, 2024 4:54:19 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 1, Hour: 18, Min: 0]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 1, Hour: 18, Min: 52]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 1, Hour: 19, Min: 0]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 1, Hour: 19, Min: 17]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "Bicycle" [Day: 1, Hour: 19, Min: 25]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Living room" is not being used now [Day: 1, Hour: 19, Min: 28]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "AC" [Day: 1, Hour: 19, Min: 53]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 1, Hour: 19, Min: 53]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "BMW M2" [Day: 1, Hour: 19, Min: 53]
-Jan 24, 2024 4:54:20 PM omo.sem.system.event.events.ChildEvent <init>
-INFO: Child "Nadezhda" in room "Bedroom": "Is needed to be care :'(" [Day: 1, Hour: 20, Min: 35]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.Adult$2 handle
-INFO: Adult "Pasha Afrikanec" doesn't want to care "Nadezhda's" baby [Day: 1, Hour: 20, Min: 35]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "roll-door" [Day: 1, Hour: 20, Min: 43]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 1, Hour: 20, Min: 43]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 1, Hour: 20, Min: 51]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "east window" [Day: 1, Hour: 20, Min: 51]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 1, Hour: 20, Min: 51]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.child.state.ChildSleepingState <init>
-INFO: Child "Hella" went to bed [Day: 1, Hour: 21, Min: 2]
-Jan 24, 2024 4:54:20 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 1, Hour: 21, Min: 16]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 1, Hour: 21, Min: 52]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 1, Hour: 21, Min: 55]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "Bicycle" [Day: 1, Hour: 22, Min: 17]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "door" [Day: 1, Hour: 22, Min: 20]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Living room" was opened now [Day: 1, Hour: 22, Min: 20]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "MTB" [Day: 1, Hour: 22, Min: 20]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 1, Hour: 22, Min: 28]
-Jan 24, 2024 4:54:21 PM omo.sem.system.event.events.HungryPetEvent <init>
-INFO: Pet "Malenky Chmonya" in room "Living room": "I'm HUUUNGRYYY RRRR >_<" [Day: 1, Hour: 22, Min: 34]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.Adult$3 handle
-INFO: Adult "Pasha Afrikanec" doesn't want to feed the pet "Malenky Chmonya" [Day: 1, Hour: 22, Min: 34]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "BMW M2" [Day: 1, Hour: 22, Min: 42]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "TV" [Day: 1, Hour: 22, Min: 53]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.device.tv.state.TvUsingState <init>
-INFO: TV in room "Living room" is being used now [Day: 1, Hour: 22, Min: 53]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Pasha Afrikanec" went to bed [Day: 1, Hour: 23, Min: 20]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Ivan" went to bed [Day: 1, Hour: 23, Min: 23]
-Jan 24, 2024 4:54:21 PM omo.sem.system.event.events.ChildEvent <init>
-INFO: Child "Hella" in room "Sound studio": "Is needed to be care :'(" [Day: 2, Hour: 0, Min: 12]
-Jan 24, 2024 4:54:21 PM omo.sem.objects.resident.person.adult.Adult$2 handle
-INFO: Adult "Pasha Afrikanec" doesn't want to care "Hella's" baby [Day: 2, Hour: 0, Min: 12]
-Jan 24, 2024 4:54:22 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Vova" went to bed [Day: 2, Hour: 0, Min: 46]
-Jan 24, 2024 4:54:22 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Living room" is not being used now [Day: 2, Hour: 0, Min: 54]
-Jan 24, 2024 4:54:22 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Sebek" went to bed [Day: 2, Hour: 0, Min: 57]
-Jan 24, 2024 4:54:22 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 2, Hour: 2, Min: 47]
-Jan 24, 2024 4:54:22 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Eva" went to bed [Day: 2, Hour: 2, Min: 50]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Sebek" woke up [Day: 2, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Vova" woke up [Day: 2, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Ivan" woke up [Day: 2, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Eva" woke up [Day: 2, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Pasha Afrikanec" woke up [Day: 2, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Lamp 2" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Living room" is on now [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Living room" to room "Garage" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.light.state.LightBrokenState <init>
-INFO: Light in room "Garage" is broken now [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Ivan" started fixing object "Lamp 5" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "Lamp 5"... [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.light.state.LightFixingState <init>
-INFO: Light in room "Garage" is being fixed now [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" broke the object "Lamp 7" while playing with it :( [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Garage" to room "Bedroom" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Garage" to room "Bedroom" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Vova" moved from room "Garage" to room "Bedroom" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.light.state.LightBrokenState <init>
-INFO: Light in room "Bedroom" is broken now [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "Lamp 7" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "Lamp 7"... [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.light.state.LightFixingState <init>
-INFO: Light in room "Bedroom" is being fixed now [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Bedroom" to room "Garage" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "BMW M2" [Day: 2, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "bedroom-door" [Day: 2, Hour: 7, Min: 30]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Bedroom" was opened now [Day: 2, Hour: 7, Min: 30]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Bedroom" is closed now [Day: 2, Hour: 7, Min: 38]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Vova" moved from room "Bedroom" to room "Garage" [Day: 2, Hour: 8, Min: 3]
-Jan 24, 2024 4:54:24 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 2, Hour: 8, Min: 3]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" didn't break the object "studio led" while playing with it :D [Day: 2, Hour: 8, Min: 58]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 2, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Ivan" fixed the object "Lamp 5" [Day: 2, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 2, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "Lamp 7" [Day: 2, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Bedroom" is not being used now [Day: 2, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "BMW M2" [Day: 2, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "south window 2" [Day: 2, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Bedroom" was opened now [Day: 2, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Garage" to room "Living room" [Day: 2, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "Bicycle" [Day: 2, Hour: 9, Min: 53]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Vova" went to work [Day: 2, Hour: 10, Min: 32]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Bedroom" is closed now [Day: 2, Hour: 10, Min: 54]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Pasha Afrikanec" went to work [Day: 2, Hour: 10, Min: 57]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Bedroom" to room "Living room" [Day: 2, Hour: 11, Min: 19]
-Jan 24, 2024 4:54:25 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "Bicycle" [Day: 2, Hour: 11, Min: 19]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Ivan" went to work [Day: 2, Hour: 11, Min: 58]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "east window" [Day: 2, Hour: 12, Min: 45]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 2, Hour: 12, Min: 45]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 2, Hour: 13, Min: 46]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "AC" [Day: 2, Hour: 14, Min: 11]
-Jan 24, 2024 4:54:26 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 2, Hour: 14, Min: 11]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" broke the object "TV" while playing with it :( [Day: 2, Hour: 16, Min: 1]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.device.tv.state.TvBrokenState <init>
-INFO: TV in room "Bedroom" is broken now [Day: 2, Hour: 16, Min: 1]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 2, Hour: 16, Min: 12]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "TV" [Day: 2, Hour: 16, Min: 15]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "TV"... [Day: 2, Hour: 16, Min: 15]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.device.tv.state.TvFixingState <init>
-INFO: TV in room "Bedroom" is being fixed now [Day: 2, Hour: 16, Min: 15]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Living room" is not being used now [Day: 2, Hour: 16, Min: 26]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Sebek" went to work [Day: 2, Hour: 16, Min: 29]
-Jan 24, 2024 4:54:27 PM omo.sem.objects.resident.pet.state.PetAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Chmonya "Malenky Chmonya" didn't break the object "TV" while playing with it, WOOOW :D [Day: 2, Hour: 16, Min: 32]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Sebek" arrived home from work [Day: 2, Hour: 17, Min: 0]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Vova" arrived home from work [Day: 2, Hour: 17, Min: 0]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Ivan" arrived home from work [Day: 2, Hour: 17, Min: 0]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Pasha Afrikanec" arrived home from work [Day: 2, Hour: 17, Min: 0]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "door-to-house" [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "TV" [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.tv.state.TvUsingState <init>
-INFO: TV in room "Living room" is being used now [Day: 2, Hour: 17, Min: 24]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 2, Hour: 17, Min: 33]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "TV" [Day: 2, Hour: 17, Min: 47]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Bedroom" is not being used now [Day: 2, Hour: 17, Min: 47]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "roll-door" [Day: 2, Hour: 17, Min: 58]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 2, Hour: 17, Min: 58]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 2, Hour: 18, Min: 6]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door" [Day: 2, Hour: 18, Min: 11]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Living room" was opened now [Day: 2, Hour: 18, Min: 11]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 2, Hour: 18, Min: 20]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 6" [Day: 2, Hour: 18, Min: 31]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 2, Hour: 18, Min: 31]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "east window" [Day: 2, Hour: 18, Min: 45]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 2, Hour: 18, Min: 45]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "AC" [Day: 2, Hour: 18, Min: 50]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 2, Hour: 18, Min: 50]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Lamp 5" [Day: 2, Hour: 18, Min: 50]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 2, Hour: 18, Min: 50]
-Jan 24, 2024 4:54:28 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Living room" is not being used now [Day: 2, Hour: 19, Min: 26]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 2, Hour: 19, Min: 46]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "Bicycle" [Day: 2, Hour: 19, Min: 51]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Living room" to room "Garage" [Day: 2, Hour: 20, Min: 10]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 2, Hour: 20, Min: 10]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 2, Hour: 20, Min: 52]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "east window" [Day: 2, Hour: 21, Min: 17]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 2, Hour: 21, Min: 17]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "AC" [Day: 2, Hour: 21, Min: 17]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 2, Hour: 21, Min: 17]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 2, Hour: 21, Min: 36]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 2, Hour: 21, Min: 36]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 2, Hour: 21, Min: 45]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 2, Hour: 22, Min: 9]
-Jan 24, 2024 4:54:29 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 2, Hour: 22, Min: 18]
-Jan 24, 2024 4:54:30 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 2, Hour: 22, Min: 43]
-Jan 24, 2024 4:54:30 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Eva" went to bed [Day: 2, Hour: 23, Min: 13]
-Jan 24, 2024 4:54:30 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 2, Hour: 23, Min: 19]
-Jan 24, 2024 4:54:30 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Pasha Afrikanec" went to bed [Day: 2, Hour: 23, Min: 21]
-Jan 24, 2024 4:54:30 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Sebek" went to bed [Day: 2, Hour: 23, Min: 46]
-Jan 24, 2024 4:54:31 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" didn't break the object "studio AC" while playing with it :D [Day: 3, Hour: 2, Min: 49]
-Jan 24, 2024 4:54:31 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 3, Hour: 3, Min: 30]
-Jan 24, 2024 4:54:31 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Ivan" went to bed [Day: 3, Hour: 3, Min: 33]
-Jan 24, 2024 4:54:31 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 3, Hour: 3, Min: 50]
-Jan 24, 2024 4:54:31 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Vova" went to bed [Day: 3, Hour: 3, Min: 52]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Sebek" woke up [Day: 3, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Vova" woke up [Day: 3, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Ivan" woke up [Day: 3, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Eva" woke up [Day: 3, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Pasha Afrikanec" woke up [Day: 3, Hour: 7, Min: 1]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "door-to-house" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "Lamp 6" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Pasha Afrikanec" moved from room "Living room" to room "Garage" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "BMW M2" [Day: 3, Hour: 7, Min: 26]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 7, Min: 34]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 5" [Day: 3, Hour: 7, Min: 59]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 3, Hour: 7, Min: 59]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 3, Hour: 8, Min: 51]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "roll-door" [Day: 3, Hour: 8, Min: 51]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 8, Min: 51]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 9, Min: 0]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "door-to-house" [Day: 3, Hour: 9, Min: 24]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 9, Min: 24]
-Jan 24, 2024 4:54:33 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 9, Min: 33]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "BMW M2" [Day: 3, Hour: 9, Min: 52]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 3, Hour: 9, Min: 58]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Sebek" went to work [Day: 3, Hour: 10, Min: 0]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" didn't break the object "TV" while playing with it :D [Day: 3, Hour: 10, Min: 12]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" broke the object "monitors" while playing with it :( [Day: 3, Hour: 10, Min: 56]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.device.speakers.state.SpeakersBrokenState <init>
-INFO: Speakers in room "Sound studio" is broken now [Day: 3, Hour: 10, Min: 56]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Vova" went to work [Day: 3, Hour: 11, Min: 1]
-Jan 24, 2024 4:54:34 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Pasha Afrikanec" went to work [Day: 3, Hour: 11, Min: 57]
-Jan 24, 2024 4:54:35 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" didn't break the object "bedroom AC" while playing with it :D [Day: 3, Hour: 13, Min: 11]
-Jan 24, 2024 4:54:35 PM omo.sem.objects.resident.pet.state.PetAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Chmonya "Malenky Chmonya" didn't break the object "Lamp 2" while playing with it, WOOOW :D [Day: 3, Hour: 14, Min: 29]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 3, Hour: 16, Min: 25]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "monitors" [Day: 3, Hour: 16, Min: 28]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "monitors"... [Day: 3, Hour: 16, Min: 28]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.speakers.state.SpeakersFixingState <init>
-INFO: Speakers in room "Sound studio" is being fixed now [Day: 3, Hour: 16, Min: 28]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 3, Hour: 16, Min: 58]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Sebek" arrived home from work [Day: 3, Hour: 17, Min: 1]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Vova" arrived home from work [Day: 3, Hour: 17, Min: 1]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Pasha Afrikanec" arrived home from work [Day: 3, Hour: 17, Min: 1]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "roll-door" [Day: 3, Hour: 17, Min: 23]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 17, Min: 23]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 3, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "MTB" [Day: 3, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "BMW M2" [Day: 3, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "monitors" [Day: 3, Hour: 17, Min: 29]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.speakers.state.SpeakersIdleState <init>
-INFO: Speakers in room "Sound studio" is not being used now [Day: 3, Hour: 17, Min: 29]
-Jan 24, 2024 4:54:36 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 17, Min: 31]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "roll-door" [Day: 3, Hour: 17, Min: 56]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 17, Min: 56]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 3, Hour: 17, Min: 59]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 17, Min: 59]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 18, Min: 5]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 18, Min: 7]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "MTB" [Day: 3, Hour: 18, Min: 30]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Garage" to room "Living room" [Day: 3, Hour: 18, Min: 32]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "Bicycle" [Day: 3, Hour: 18, Min: 32]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "TV" [Day: 3, Hour: 18, Min: 54]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.tv.state.TvUsingState <init>
-INFO: TV in room "Living room" is being used now [Day: 3, Hour: 18, Min: 54]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "door-to-house" [Day: 3, Hour: 19, Min: 3]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 3, Hour: 19, Min: 3]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 3, Hour: 19, Min: 11]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Lamp 5" [Day: 3, Hour: 19, Min: 36]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 3, Hour: 19, Min: 36]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 3, Hour: 19, Min: 53]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "BMW M2" [Day: 3, Hour: 19, Min: 55]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "east window" [Day: 3, Hour: 19, Min: 58]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.window.state.WindowUsingState <init>
-INFO: Window in room "Living room" was opened now [Day: 3, Hour: 19, Min: 58]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" broke the object "studio led" while playing with it :( [Day: 3, Hour: 20, Min: 29]
-Jan 24, 2024 4:54:37 PM omo.sem.objects.device.light.state.LightBrokenState <init>
-INFO: Light in room "Sound studio" is broken now [Day: 3, Hour: 20, Min: 29]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Living room" is not being used now [Day: 3, Hour: 20, Min: 56]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Pasha Afrikanec" started fixing object "studio led" [Day: 3, Hour: 20, Min: 56]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "studio led"... [Day: 3, Hour: 20, Min: 56]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.light.state.LightFixingState <init>
-INFO: Light in room "Sound studio" is being fixed now [Day: 3, Hour: 20, Min: 56]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.window.state.WindowIdleState <init>
-INFO: Window in room "Living room" is closed now [Day: 3, Hour: 20, Min: 59]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 3, Hour: 21, Min: 21]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Eva" moved from room "Living room" to room "Garage" [Day: 3, Hour: 21, Min: 24]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 3, Hour: 21, Min: 24]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 6" [Day: 3, Hour: 22, Min: 22]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 3, Hour: 22, Min: 22]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 3, Hour: 22, Min: 47]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 3, Hour: 22, Min: 50]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Pasha Afrikanec" fixed the object "studio led" [Day: 3, Hour: 22, Min: 58]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Sound studio" is not being used now [Day: 3, Hour: 22, Min: 58]
-Jan 24, 2024 4:54:38 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Pasha Afrikanec" went to bed [Day: 3, Hour: 23, Min: 1]
-Jan 24, 2024 4:54:39 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Sebek" went to bed [Day: 3, Hour: 23, Min: 51]
-Jan 24, 2024 4:54:39 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Eva" went to bed [Day: 3, Hour: 23, Min: 53]
-Jan 24, 2024 4:54:40 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" didn't break the object "Lamp 7" while playing with it :D [Day: 4, Hour: 2, Min: 53]
-Jan 24, 2024 4:54:40 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 4, Hour: 4, Min: 36]
-Jan 24, 2024 4:54:40 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Vova" went to bed [Day: 4, Hour: 4, Min: 38]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Sebek" woke up [Day: 4, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Vova" woke up [Day: 4, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Eva" woke up [Day: 4, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Pasha Afrikanec" woke up [Day: 4, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 4, Hour: 7, Min: 22]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.light.state.LightBrokenState <init>
-INFO: Light in room "Garage" is broken now [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Ivan" started fixing object "Lamp 5" [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "Lamp 5"... [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.light.state.LightFixingState <init>
-INFO: Light in room "Garage" is being fixed now [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 4, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "BMW M2" [Day: 4, Hour: 7, Min: 30]
-Jan 24, 2024 4:54:41 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 7, Min: 35]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.door.state.DoorBrokenState <init>
-INFO: Door in room "Garage" is broken now [Day: 4, Hour: 8, Min: 0]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "roll-door" [Day: 4, Hour: 8, Min: 3]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "roll-door"... [Day: 4, Hour: 8, Min: 3]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.door.state.DoorFixingState <init>
-INFO: Door in room "Garage" is being fixed now [Day: 4, Hour: 8, Min: 3]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 4, Hour: 8, Min: 53]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 4, Hour: 8, Min: 53]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Ivan" fixed the object "Lamp 5" [Day: 4, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 4, Hour: 9, Min: 29]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 6" [Day: 4, Hour: 9, Min: 54]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 4, Hour: 9, Min: 54]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Lamp 5" [Day: 4, Hour: 9, Min: 56]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 4, Hour: 9, Min: 56]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Sebek" went to work [Day: 4, Hour: 10, Min: 2]
-Jan 24, 2024 4:54:42 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
-INFO: Adult "Pasha Afrikanec" went to work [Day: 4, Hour: 10, Min: 2]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.resident.pet.state.PetAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Chmonya "Malenky Chmonya" didn't break the object "TV" while playing with it, WOOOW :D [Day: 4, Hour: 10, Min: 41]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "roll-door" [Day: 4, Hour: 11, Min: 3]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 11, Min: 3]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" didn't break the object "monitors" while playing with it :D [Day: 4, Hour: 11, Min: 20]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 4, Hour: 11, Min: 28]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 4, Hour: 11, Min: 28]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 11, Min: 36]
-Jan 24, 2024 4:54:43 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 4, Hour: 12, Min: 1]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "roll-door" [Day: 4, Hour: 13, Min: 27]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 4, Hour: 13, Min: 27]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 13, Min: 35]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 4, Hour: 14, Min: 0]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 4, Hour: 14, Min: 0]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Nadezhda" broke the object "TV" while playing with it :( [Day: 4, Hour: 14, Min: 6]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.tv.state.TvBrokenState <init>
-INFO: TV in room "Bedroom" is broken now [Day: 4, Hour: 14, Min: 6]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 14, Min: 9]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
-INFO: Adult "Eva" started fixing object "TV" [Day: 4, Hour: 14, Min: 12]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.Documentation fixDevice
-INFO: Reading manual for the device "TV"... [Day: 4, Hour: 14, Min: 12]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.tv.state.TvFixingState <init>
-INFO: TV in room "Bedroom" is being fixed now [Day: 4, Hour: 14, Min: 12]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
-INFO: Adult "Eva" fixed the object "TV" [Day: 4, Hour: 15, Min: 43]
-Jan 24, 2024 4:54:44 PM omo.sem.objects.device.tv.state.TvIdleState <init>
-INFO: Tv in room "Bedroom" is not being used now [Day: 4, Hour: 15, Min: 43]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "MTB" [Day: 4, Hour: 16, Min: 8]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Sebek" arrived home from work [Day: 4, Hour: 17, Min: 1]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultWorkingState update
-INFO: Adult "Pasha Afrikanec" arrived home from work [Day: 4, Hour: 17, Min: 1]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "door" [Day: 4, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Living room" was opened now [Day: 4, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 4, Hour: 17, Min: 26]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 4, Hour: 17, Min: 34]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "door-to-house" [Day: 4, Hour: 17, Min: 34]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 4, Hour: 17, Min: 34]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 4, Hour: 17, Min: 42]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "door" [Day: 4, Hour: 17, Min: 59]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Living room" was opened now [Day: 4, Hour: 17, Min: 59]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Living room" is closed now [Day: 4, Hour: 18, Min: 7]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "BMW M2" [Day: 4, Hour: 18, Min: 7]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "AC" [Day: 4, Hour: 18, Min: 32]
-Jan 24, 2024 4:54:45 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 4, Hour: 18, Min: 32]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 4, Hour: 18, Min: 51]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 4, Hour: 18, Min: 54]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 4, Hour: 18, Min: 57]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 5" [Day: 4, Hour: 19, Min: 19]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 4, Hour: 19, Min: 19]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Vova" moved from room "Garage" to room "Living room" [Day: 4, Hour: 19, Min: 22]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Bicycle" [Day: 4, Hour: 19, Min: 22]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 4, Hour: 20, Min: 17]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 4, Hour: 20, Min: 34]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "Lamp 6" [Day: 4, Hour: 20, Min: 34]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 4, Hour: 20, Min: 34]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "Lamp 1" [Day: 4, Hour: 20, Min: 48]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Living room" is on now [Day: 4, Hour: 20, Min: 48]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "AC" [Day: 4, Hour: 20, Min: 59]
-Jan 24, 2024 4:54:46 PM omo.sem.objects.device.airConditioner.state.AirConditionerUsingState <init>
-INFO: AirConditioner in room "Living room" was turned on now [Day: 4, Hour: 20, Min: 59]
-Jan 24, 2024 4:54:47 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "BMW M2" [Day: 4, Hour: 21, Min: 43]
-Jan 24, 2024 4:54:47 PM omo.sem.objects.device.airConditioner.state.AirConditionerIdleState <init>
-INFO: AirConditioner in room "Living room" is not being used now [Day: 4, Hour: 23, Min: 0]
-Jan 24, 2024 4:54:47 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Sebek" went to bed [Day: 4, Hour: 23, Min: 3]
-Jan 24, 2024 4:54:47 PM omo.sem.objects.resident.pet.state.PetAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Chmonya "Malenky Chmonya" didn't break the object "door" while playing with it, WOOOW :D [Day: 4, Hour: 23, Min: 42]
-Jan 24, 2024 4:54:47 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Pasha Afrikanec" went to bed [Day: 4, Hour: 23, Min: 48]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 5, Hour: 4, Min: 19]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Ivan" went to bed [Day: 5, Hour: 4, Min: 21]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Garage" is not being used now [Day: 5, Hour: 5, Min: 33]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Eva" went to bed [Day: 5, Hour: 5, Min: 36]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.device.light.state.LightIdleState <init>
-INFO: Light in room "Living room" is not being used now [Day: 5, Hour: 5, Min: 47]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.resident.person.child.state.ChildAwakeState useDeviceAndResetDeviceUsingEvent
-INFO: Child "Hella" didn't break the object "studio AC" while playing with it :D [Day: 5, Hour: 5, Min: 47]
-Jan 24, 2024 4:54:49 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState <init>
-INFO: Adult "Vova" went to bed [Day: 5, Hour: 5, Min: 50]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Sebek" woke up [Day: 5, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Vova" woke up [Day: 5, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Ivan" woke up [Day: 5, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Eva" woke up [Day: 5, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultSleepingState update
-INFO: Adult "Pasha Afrikanec" woke up [Day: 5, Hour: 7, Min: 2]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Sebek" started using object "Bicycle" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.HouseResident moveTo
-INFO: Adult "Vova" moved from room "Living room" to room "Garage" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Vova" started using object "BMW M2" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Ivan" started using object "Lamp 6" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.device.light.state.LightUsingState <init>
-INFO: Light in room "Garage" is on now [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Eva" started using object "roll-door" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.device.door.state.DoorUsingState <init>
-INFO: Door in room "Garage" was opened now [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
-INFO: Adult "Pasha Afrikanec" started using object "MTB" [Day: 5, Hour: 7, Min: 27]
-Jan 24, 2024 4:54:50 PM omo.sem.objects.device.door.state.DoorIdleState <init>
-INFO: Door in room "Garage" is closed now [Day: 5, Hour: 7, Min: 35]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.device.window.state.WindowIdleState <init>
+INFO: Window in room "Garage" is closed now [Day: 1, Hour: 8, Min: 27]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Vova" started using object "Audi" [Day: 1, Hour: 8, Min: 52]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Ivan" started using object "Bicycle" [Day: 1, Hour: 8, Min: 52]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.device.door.state.DoorBrokenState <init>
+INFO: Door in room "Garage" is broken now [Day: 1, Hour: 8, Min: 52]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultDeviceFixingState <init>
+INFO: Adult "Eva" started fixing object "door-to-house" [Day: 1, Hour: 8, Min: 55]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.device.Documentation fixDevice
+INFO: Reading manual for the device "door-to-house"... [Day: 1, Hour: 8, Min: 55]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.device.door.state.DoorFixingState <init>
+INFO: Door in room "Garage" is being fixed now [Day: 1, Hour: 8, Min: 55]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Sebek" started using object "MTB" [Day: 1, Hour: 9, Min: 53]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
+INFO: Adult "Ivan" went to work [Day: 1, Hour: 10, Min: 1]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.device.speakers.state.SpeakersIdleState <init>
+INFO: Speakers in room "Gaming room" is not being used now [Day: 1, Hour: 10, Min: 26]
+Jan 28, 2024 2:57:12 AM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
+INFO: Adult "Gleb" went to work [Day: 1, Hour: 10, Min: 29]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
+INFO: Adult "Vova" went to work [Day: 1, Hour: 10, Min: 57]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.resident.person.adult.state.AdultWorkingState <init>
+INFO: Adult "Sebek" went to work [Day: 1, Hour: 10, Min: 57]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.resident.person.adult.Adult completeFixingDevice
+INFO: Adult "Eva" fixed the object "door-to-house" [Day: 1, Hour: 11, Min: 55]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.device.door.state.DoorIdleState <init>
+INFO: Door in room "Garage" is closed now [Day: 1, Hour: 11, Min: 55]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Eva" started using object "roll-door" [Day: 1, Hour: 12, Min: 20]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.device.door.state.DoorUsingState <init>
+INFO: Door in room "Garage" was opened now [Day: 1, Hour: 12, Min: 20]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.device.door.state.DoorIdleState <init>
+INFO: Door in room "Garage" is closed now [Day: 1, Hour: 12, Min: 29]
+Jan 28, 2024 2:57:13 AM omo.sem.system.event.events.HungryPetEvent <init>
+INFO: Pet "Malenky Chmonya" in room "Garage": "I'm HUUUNGRYYY RRRR >_<" [Day: 1, Hour: 12, Min: 34]
+Jan 28, 2024 2:57:13 AM omo.sem.objects.resident.person.adult.state.AdultDeviceUsingState <init>
+INFO: Adult "Eva" started using object "MTB" [Day: 1, Hour: 12, Min: 54]

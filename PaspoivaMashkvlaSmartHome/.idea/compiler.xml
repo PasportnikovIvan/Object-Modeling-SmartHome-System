@@ -10,8 +10,5 @@
         <module name="sh" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="SmartHouseOMO" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>

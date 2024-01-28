@@ -1,53 +1,51 @@
 ------------------------------------House------------------------------------
 House has 2 floor(s).
 Floor number 1 has 4 rooms: 
-Room "Living room" has 7 device(s): 
-AC
-door
-sever window
-east window
-TV
-Lamp 1
-Lamp 2
+Room "Garage" has 5 device(s): 
+House door
+Garage door
+East window
+Garage lamp 1
+Garage lamp 2
 Room "Kitchen" has 9 device(s): 
 Kitchen AC
-kitchen door
-east window
-south window
+Kitchen door
+East window 1
+East window 2
 TV
-Lamp 3
-Lamp 4
-Chajnik
+Kitchen lamp 1
+Kitchen lamp 2
+Tea kettle
 Fridge
 Room "Bathroom" has 2 device(s): 
 WC door
-Lamp
+WC lamp 1
 Room "Garage" has 4 device(s): 
 roll-door
 door-to-house
-Lamp 5
-Lamp 6
+Garage lamp 3
+Garage lamp 4
 Floor number 2 has 2 rooms: 
 Room "Bedroom" has 7 device(s): 
 bedroom-door
-east window 2
-south window 2
+East window 2
+South window 2
 TV
-Lamp 7
-Lamp 8
-bedroom AC
-Room "Sound studio" has 3 device(s): 
-studio AC
-studio led
-monitors
+Second floor lamp 1
+Second floor lamp 2
+Bedroom AC
+Room "Gaming room" has 3 device(s): 
+Gaming room AC
+GR led
+Monitors
 -----------------------------------Residents---------------------------------
 There are 7 residents living in the house: 7 people and 1 pet(s).
-Adult "Sebek" is MALE
 Adult "Vova" is MALE
 Adult "Ivan" is MALE
-Child "Nadezhda" is FEMALE
+Adult "Sebek" is MALE
+Child "Luca" is FEMALE
 Adult "Eva" is FEMALE
-Adult "Pasha Afrikanec" is MALE
+Adult "Gleb" is MALE
 Child "Hella" is FEMALE
 Pets: 
 Chmonya "Malenky Chmonya" 

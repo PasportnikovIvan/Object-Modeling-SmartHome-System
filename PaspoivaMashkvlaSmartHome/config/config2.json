@@ -1,0 +1,242 @@
+{
+  "sensors": [
+    "MOVEMENT"
+  ],
+  "floors": [
+    {
+      "level": 1,
+      "rooms": [
+        {
+          "name": "Garage",
+          "sensors": ["TEMP", "LIGHT"],
+          "items": [
+            {
+              "type": "BICYCLE",
+              "name": "Bicycle"
+            },
+            {
+              "type": "CAR",
+              "name": "Audi"
+            }
+          ],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "House door"
+            },
+            {
+              "type": "DOOR",
+              "name": "Garage door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "East window"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Garage lamp 1"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Garage lamp 2"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Vova",
+              "gender": "MALE"
+            }
+          ],
+          "pets": [
+            {
+              "type": "CHMONYA",
+              "name": "Malenky Chmonya"
+            }
+          ]
+        },
+        {
+          "name": "Kitchen",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "Kitchen AC"
+            },
+            {
+              "type": "DOOR",
+              "name": "Kitchen door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "East window 1"
+            },
+            {
+              "type": "WINDOW",
+              "name": "East window 2"
+            },
+            {
+              "type": "TV",
+              "name": "TV"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Kitchen lamp 1"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Kitchen lamp 2"
+            },
+            {
+              "type": "KETTLE",
+              "name": "Tea kettle"
+            },
+            {
+              "type": "FRIDGE",
+              "name": "Fridge"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Ivan",
+              "gender": "MALE"
+            },
+            {
+              "type": "ADULT",
+              "name": "Sebek",
+              "gender": "MALE"
+            }
+          ]
+        },
+        {
+          "name": "Bathroom",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "WC door"
+            },
+            {
+              "type": "LIGHT",
+              "name": "WC lamp 1"
+            }
+          ]
+        },
+        {
+          "name": "Garage",
+          "sensors": ["LIGHT"],
+          "items": [
+            {
+              "type": "BICYCLE",
+              "name": "MTB"
+            },
+            {
+              "type": "CAR",
+              "name": "BMW M2"
+            }
+          ],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "roll-door"
+            },
+            {
+              "type": "DOOR",
+              "name": "door-to-house"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Garage lamp 3"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Garage lamp 4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "rooms": [
+        {
+          "name": "Bedroom",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "DOOR",
+              "name": "bedroom-door"
+            },
+            {
+              "type": "WINDOW",
+              "name": "East window 2"
+            },
+            {
+              "type": "WINDOW",
+              "name": "South window 2"
+            },
+            {
+              "type": "TV",
+              "name": "TV"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Second floor lamp 1"
+            },
+            {
+              "type": "LIGHT",
+              "name": "Second floor lamp 2"
+            },
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "Bedroom AC"
+            }
+          ],
+          "persons": [
+            {
+              "type": "CHILD",
+              "name": "Luca",
+              "gender": "FEMALE"
+            },
+            {
+              "type": "ADULT",
+              "name": "Eva",
+              "gender": "FEMALE"
+            }
+          ]
+        },
+        {
+          "name": "Gaming room",
+          "sensors": ["TEMP", "LIGHT"],
+          "devices": [
+            {
+              "type": "AIR_CONDITIONER",
+              "name": "Gaming room AC"
+            },
+            {
+              "type": "LIGHT",
+              "name": "GR led"
+            },
+            {
+              "type": "SPEAKERS",
+              "name": "Monitors"
+            }
+          ],
+          "persons": [
+            {
+              "type": "ADULT",
+              "name": "Gleb",
+              "gender": "MALE"
+            },
+            {
+              "type": "CHILD",
+              "name": "Hella",
+              "gender": "FEMALE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
